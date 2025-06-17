@@ -1,6 +1,6 @@
 /* App.css */
 
-body {
+body { 
   text-align: left;     /* 中央寄せされている場合に上書き */
   margin: 0;            /* 不要な余白を除去（必要に応じて） */
   padding: 0;
